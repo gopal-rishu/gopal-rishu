@@ -1,78 +1,76 @@
-<h1 align="center">Hi 👋, I'm Gopal Kumar</h1>
-<h3 align="center">Aspiring Data Analyst | MCA Graduate | Turning Data into Insights 📊</h3>
+<h1 align="center">Gopal Kumar</h1>
+<h3 align="center">📊 Aspiring Data Analyst | SQL • Python • Power BI</h3>
+
+<p align="center">
+Turning raw data into meaningful insights and business decisions.
+</p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 MCA Graduate from Graphic Era Deemed to be University
-- 📊 Passionate about Data Analysis & Visualization
-- 🧠 Skilled in SQL, Python & Power BI
-- 🔍 Interested in solving real-world business problems using data
-- 🌱 Currently improving Data Analytics & Machine Learning skills
-- 🚀 Actively looking for Data Analyst opportunities
+
+🎓 MCA Graduate from Graphic Era Deemed to be University  
+📊 Passionate about Data Analytics & Visualization  
+📈 Skilled in SQL, Python, Power BI & Data Cleaning  
+🧠 Interested in solving real-world business problems using data  
+🚀 Currently seeking Data Analyst opportunities  
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tech Stack
 
 ### 📊 Data Analysis
-- Python (Pandas, NumPy)
-- SQL
-- Exploratory Data Analysis (EDA)
-- Data Cleaning
+![Python](https://img.shields.io/badge/Python-Analysis-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-Database-orange?style=for-the-badge&logo=mysql)
+![Pandas](https://img.shields.io/badge/Pandas-Data--Processing-black?style=for-the-badge&logo=pandas)
 
 ### 📈 Visualization
-- Power BI
-- Matplotlib
-- Seaborn
-- Excel
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-Analysis-green?style=for-the-badge&logo=microsoft-excel)
 
 ### 🤖 Machine Learning
-- Decision Tree
-- Random Forest
-- Scikit-learn
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-red?style=for-the-badge&logo=scikit-learn)
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
 ### 🏦 Loan Approval Prediction
-Machine learning model to predict loan approval using customer financial data.
+Machine learning model predicting loan approval using applicant financial data.
 
-🔹 Data Cleaning & Preprocessing  
-🔹 Exploratory Data Analysis  
-🔹 Model Building & Evaluation  
+✔ Data Cleaning & Preprocessing  
+✔ Exploratory Data Analysis  
+✔ Decision Tree & Random Forest Models  
 
-👉 [View Project](https://github.com/gopal-rishu/loan-approval-prediction)
-
----
-
-### 📊 Sales Dashboard (Power BI)
-Interactive dashboard analyzing sales performance and trends.
-
-🔹 KPI Analysis  
-🔹 Regional Sales Insights  
-🔹 Profit Analysis  
+🔗 https://github.com/gopal-rishu/loan-approval-prediction
 
 ---
 
-## 📈 GitHub Stats
+### 📊 Sales Analysis Dashboard (Power BI)
+Interactive dashboard analyzing sales performance and regional trends.
+
+✔ KPI Tracking  
+✔ Profit Analysis  
+✔ Business Insights
+
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gopal-rishu&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gopal-rishu" />
+<img src="https://github-readme-stats.vercel.app/api?username=gopal-rishu&show_icons=true&theme=default" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopal-rishu&layout=compact" height="160"/>
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(Add your LinkedIn link here)*
-- 📧 Email: *(Add your email here)*
+💼 LinkedIn: (Add your LinkedIn link)  
+📧 Email: (Add your Email)
 
 ---
 
-⭐ *“Data is the new oil, but insights are the real fuel.”*
+<p align="center">
+⭐ Always learning | Always improving | Data never lies
+</p>
