@@ -70,8 +70,8 @@ Interactive dashboard analyzing sales performance and regional trends.
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: (Add your LinkedIn link)  
-📧 Email: (Add your Email)
+💼 LinkedIn: (www.linkedin.com/in/gopal-kumar-68a59622b)  
+📧 Email: (gopal1672000@gmail.com)
 
 ---
 
