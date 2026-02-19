@@ -42,7 +42,7 @@ Machine learning model predicting loan approval using applicant financial data.
 ✔ Exploratory Data Analysis  
 ✔ Decision Tree & Random Forest Models  
 
-🔗 https://github.com/gopal-rishu/loan-approval-prediction
+🔗 https://github.com/gopal-rishu/loan-approval-prediction-
 
 ---
 
