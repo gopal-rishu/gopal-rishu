@@ -58,9 +58,13 @@ Interactive dashboard analyzing sales performance and regional trends.
 ## 📈 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gopal-rishu&show_icons=true&theme=default" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopal-rishu&layout=compact" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gopal-rishu&show_icons=true&count_private=true" height="170"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gopal-rishu" height="170"/>
+</p>
+
 
 ---
 
