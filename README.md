@@ -10,14 +10,22 @@ making a intractive software .
 ## 👨‍💻 About Me
 
 🎓 MCA Graduate from Graphic Era Deemed to be University  
-📊 Passionate about Data Analytics & Visualization  
-📈 Skilled in SQL, Python, Power BI & Data Cleaning  
-🧠 Interested in solving real-world business problems using data  
-🚀 Currently seeking Data Analyst opportunities  
+📊 Passionate about Software Developement  
+📈 Skilled in Angular, javascript, typescript & node.js & Express.js & MongoDB & SQL  
+🧠 Interested in solving real-world problems using Software Developement skill 
+🚀 Currently working in Mapletech corpo 
 
 ---
 
 ## 🛠️ Tech Stack
+
+## Mean Stack
+
+### 🤖 Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-red?style=for-the-badge&logo=scikit-learn)
+
+---
+
 
 ### 📊 Data Analysis
 ![Python](https://img.shields.io/badge/Python-Analysis-blue?style=for-the-badge&logo=python)
@@ -28,10 +36,6 @@ making a intractive software .
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge&logo=powerbi)
 ![Excel](https://img.shields.io/badge/Excel-Analysis-green?style=for-the-badge&logo=microsoft-excel)
 
-### 🤖 Machine Learning
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-red?style=for-the-badge&logo=scikit-learn)
-
----
 
 ## 🚀 Featured Projects
 
