@@ -1,8 +1,8 @@
 <h1 align="center">Gopal Kumar</h1>
-<h3 align="center">📊 Aspiring Data Analyst | SQL • Python • Power BI</h3>
+<h3 align="center">📊 Software Developer | Angular • javascript • typescript • node.js • Express.js</h3>
 
 <p align="center">
-Turning raw data into meaningful insights and business decisions.
+making a intractive software .
 </p>
 
 ---
