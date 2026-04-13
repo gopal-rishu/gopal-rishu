@@ -13,7 +13,7 @@ making a intractive software .
 📊 Passionate about Software Developement  
 📈 Skilled in Angular, javascript, typescript & node.js & Express.js & MongoDB & SQL  
 🧠 Interested in solving real-world problems using Software Developement skill 
-🚀 Currently working in Mapletech corpo 
+🚀 Currently working in Mapletech corporation
 
 ---
 
