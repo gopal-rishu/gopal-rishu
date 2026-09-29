@@ -1,5 +1,5 @@
 <h1 align="center">Gopal Kumar</h1>
-<h3 align="center">📊 Software Developer | Angular • javascript • typescript • node.js • Express.js</h3>
+<h3 align="center">📊 Software Developer | Angular • javascript • typescript • C# • ASP.NET</h3>
 
 <p align="center">
 making a intractive software .
